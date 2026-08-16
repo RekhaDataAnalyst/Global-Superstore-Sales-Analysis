@@ -46,11 +46,11 @@ The project uses **Python, MySQL, and Power BI** to clean, analyse, and visualiz
 
 ### 🔹 SALES PERFORMANCE DASHBOARD
 
-![Power BI Dashboard](Sales_Performance_Dashboard.png)
+![Power BI Dashboard](PowerBI_Dashboard_Screenshots/Sales_Performance_Dashboard.png)
 
 ### 🔹 CUSTOMER AND PRODUCT PERFORMANCE DASHBOARD
 
-![Power BI Dashboard](Customer_Product_Performance_Dashboard.png)
+![Power BI Dashboard](PowerBI_Dashboard_Screenshots/Customer_Product_Performance_Dashboard.png)
 
 ## 🐍 Python Analysis
 
@@ -62,6 +62,8 @@ Python was used for data preparation and cleaning, including:
 * Preparing data for analysis
 * Exploratory data analysis
 
+### 🔹 Python Link
+![Power BI Dashboard](Python/GlobalStore_PythonFile.ipynb)
 ## 🗄️ MySQL Analysis
 
 MySQL was used to perform SQL-based business analysis.
@@ -78,7 +80,7 @@ The analysis included:
 
 ### 📂 SQL File
 
-👉 **[View Complete MySQL Queries](GlobalSuperStoreMySql.sql)**
+👉 **[View Complete MySQL Queries](MySQL/GlobalSuperStoreMySql.sql)**
 
 ## 💡 Key Insights
 
