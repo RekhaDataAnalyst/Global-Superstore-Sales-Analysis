@@ -44,9 +44,13 @@ The project uses **Python, MySQL, and Power BI** to clean, analyse, and visualiz
 
 ## 📊 Power BI Dashboard
 
-### 🔹 Sales & Profit Dashboard
+### 🔹 SALES PERFORMANCE DASHBOARD
 
-![Power BI Dashboard](Dashboard_Screenshots/PowerBI_Dashboard.png)
+![Power BI Dashboard](Sales_Performance_Dashboard.png)
+
+### 🔹 CUSTOMER AND PRODUCT PERFORMANCE DASHBOARD
+
+![Power BI Dashboard](Customer_Product_Performance_Dashboard.png)
 
 ## 🐍 Python Analysis
 
