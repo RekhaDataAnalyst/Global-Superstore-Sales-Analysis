@@ -78,7 +78,7 @@ The analysis included:
 
 ### 📂 SQL File
 
-👉 **[View Complete MySQL Queries](MySQL/Global_Superstore_Analysis.sql)**
+👉 **[View Complete MySQL Queries](GlobalSuperStoreMySql.sql)**
 
 ## 💡 Key Insights
 
