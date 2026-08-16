@@ -63,7 +63,7 @@ Python was used for data preparation and cleaning, including:
 * Exploratory data analysis
 
 ### 🔹 Python Link
-![Power BI Dashboard](Python/GlobalStore_PythonFile.ipynb)
+![Python Link](Python/GlobalStore_PythonFile.ipynb)
 ## 🗄️ MySQL Analysis
 
 MySQL was used to perform SQL-based business analysis.
